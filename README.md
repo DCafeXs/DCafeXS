@@ -5,17 +5,21 @@
   No momento estou estudando sobre javascript e como usar o git e github pela alura.
 
 ## Coisa que gosto
-> * Jogos (motivo pelo qual me interessei em estudar programação).
-> * gatos (acho dificil quem não gosta).
-> * minha familia (sou casado e tenho um filho de 5 aninhos).
+> * Jogos (motivo pelo qual me interessei em estudar programação :video_game:).
+> * gatos (acho dificil quem não gosta  :octocat:).
+> * minha familia (sou casado e tenho um filho de 5 aninhos :baby:).
 
-## interesses
+## Objetivos
 
-  Pretendo aprender sobre desenvolvimento web e começar a trabalhar como desenvolvedor.
-Aprender diferentes linguagens, e conseguir programar do zero.
-  Conseguir criar pelo menos 1 jogo.
+> * Pretendo aprender sobre desenvolvimento web e começar a trabalhar como desenvolvedor.
+> * Aprender diferentes linguagens, e conseguir programar do zero.
+> * Conseguir criar pelo menos 1 jogo.
 
   
+  ## Aprendendo
+
+  Javascript e ...
+
   
 
 
