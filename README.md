@@ -18,10 +18,5 @@
   
   ## Aprendendo
 
-  Javascript e ...
-
-  
-
-
-
+<img height="60px" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /><img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original-wordmark.svg" /><img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 
