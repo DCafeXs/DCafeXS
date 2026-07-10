@@ -16,7 +16,11 @@
   
 ## 🛠️ Tecnologias que estou estudando atualmente
 
-<img height="60px" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /><img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original-wordmark.svg" /><img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" />
+</div>
 
 📫 **Como me encontrar:**
 📧 **E-mail:** [dgpassoscafe123@gmail.com](mailto:dgpassoscafe123@gmail.com)
