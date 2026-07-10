@@ -22,5 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" />
 </div>
 
-📫 **Como me encontrar:**
+
+## 📫 **Como me encontrar:**
 📧 **E-mail:** [dgpassoscafe123@gmail.com](mailto:dgpassoscafe123@gmail.com)
